@@ -1,3 +1,25 @@
+## Sobre o projeto
+
+Este projeto consistem em recriar a interface do WhatsApp Web para aprender mais sobre CSS com foco no Flex Layout.
+
+Para rodar o projeto é bem simples, basta instalar as dependências,
+
+```bash
+yarn install
+```
+
+e depois rodar o projeto
+
+```bash
+yarn start
+```
+
+caso tenha algum problema com cross origin por causa da API utilizado para obtenção das imagens utilizadas como avatar, instale uma extensão do google chrome para evitar isso.
+
+https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
+
+## Create react app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
